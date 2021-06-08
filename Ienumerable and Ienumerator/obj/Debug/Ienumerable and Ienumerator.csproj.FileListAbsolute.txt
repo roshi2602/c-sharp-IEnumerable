@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Ienumerable and Ienumerator\Ienumerable and Ienumerator\obj\Debug\Ienumerable and Ienumerator.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Ienumerable and Ienumerator\Ienumerable and Ienumerator\obj\Debug\Ienumerable and Ienumerator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Ienumerable and Ienumerator\Ienumerable and Ienumerator\bin\Debug\Ienumerable and Ienumerator.exe.config
+C:\Users\lenovo\source\repos\Ienumerable and Ienumerator\Ienumerable and Ienumerator\bin\Debug\Ienumerable and Ienumerator.exe
+C:\Users\lenovo\source\repos\Ienumerable and Ienumerator\Ienumerable and Ienumerator\bin\Debug\Ienumerable and Ienumerator.pdb
+C:\Users\lenovo\source\repos\Ienumerable and Ienumerator\Ienumerable and Ienumerator\obj\Debug\Ienumerable and Ienumerator.exe
+C:\Users\lenovo\source\repos\Ienumerable and Ienumerator\Ienumerable and Ienumerator\obj\Debug\Ienumerable and Ienumerator.pdb
